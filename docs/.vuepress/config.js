@@ -1,10 +1,11 @@
 module.exports = {
   base: '/notes/',
   title: 'Notes',
+  description: 'study notes on ts',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Github', link: 'https://github.com'  }
+      { text: 'Github', link: 'https://github.com/rickychoi1994/notes'  }
     ],
     sidebar: {
       '/notes/': [
