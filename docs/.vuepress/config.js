@@ -15,7 +15,8 @@ module.exports = {
           children: [
             '',
             'symbol',
-            'interface'
+            'interface',
+            'function'
           ]
         }
       ]
