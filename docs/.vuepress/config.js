@@ -13,7 +13,9 @@ module.exports = {
           // title: '基础类型',
           collapsable: false,
           children: [
-            ''
+            '',
+            'symbol',
+            'interface'
           ]
         }
       ]
