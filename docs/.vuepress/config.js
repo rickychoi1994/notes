@@ -16,10 +16,12 @@ module.exports = {
             '',
             'symbol',
             'interface',
-            'function'
+            'function',
+            'generics'
           ]
         }
       ]
-    }
+    },
+    lastUpdated: '最近一次更新时间'
   }
 }
