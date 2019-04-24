@@ -17,7 +17,8 @@ module.exports = {
             'symbol',
             'interface',
             'function',
-            'generics'
+            'generics',
+            'es6-class-1'
           ]
         }
       ]
