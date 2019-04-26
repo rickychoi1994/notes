@@ -63,9 +63,9 @@ super函数有两种使用方式
 作为函数使用：super代表父类的constructor，子类中的constructor必须调用super，而且调用super后才能使用this。
 子类继承父类后，父类中的this指向的是子类的实例
 
-作为对象使用
-
-在普通方法中，指向的是父类的原型对象
+作为对象使用：
+* 在普通方法中，指向的是父类的原型对象
+* 在静态方法中，指向的是父类
 
 ```javascript
 class Parent {
@@ -113,14 +113,16 @@ obj.__proto__ === Object.prototype // true
 ```
 
 ::: tip
-子类的 `__proto__` 指向的是父类本身
-子类的 `prototype` 属性的 `__proto__` 指向的是父类的 `prototype`
-实例的 `__proto__` 的 `__proto__` 指向的是父类实例的 `__proto__`
+* 子类的 `__proto__` 指向的是父类本身
+
+* 子类的 `prototype` 属性的 `__proto__` 指向的是父类的 `prototype`
+
+* 实例的 `__proto__` 的 `__proto__` 指向的是父类实例的 `__proto__`
 :::
 
 ## 原生构造函数的继承
 
-原生构造函数：`Number` `String` `Boolean` `Array` `Date` `Function` `Error` `Object` `RegExp`
+原生构造函数：`Number` 、`String` 、`Boolean` 、`Array` 、`Date` 、`Function` 、`Error` 、`Object` 、`RegExp`
 
 在es6中(es6之前无法继承原生构造函数)
 
