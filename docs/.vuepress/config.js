@@ -1,7 +1,7 @@
 module.exports = {
   base: '/notes/',
-  title: 'Notes',
-  description: 'study notes on ts',
+  title: 'TypeScript',
+  description: 'TypeScript 个人学习笔记',
   themeConfig: {
     nav: [
       { text: 'Home', link: '/' },
