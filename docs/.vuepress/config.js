@@ -18,7 +18,8 @@ module.exports = {
             'interface',
             'function',
             'generics',
-            'es6-class-1'
+            'es6-class-1',
+            'es6-class-2'
           ]
         }
       ]
