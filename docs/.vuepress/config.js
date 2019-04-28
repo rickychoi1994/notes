@@ -20,7 +20,8 @@ module.exports = {
             'generics',
             'es6-class-1',
             'es6-class-2',
-            'class'
+            'class',
+            'enum'
           ]
         }
       ]
