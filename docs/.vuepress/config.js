@@ -21,7 +21,8 @@ module.exports = {
             'es6-class-1',
             'es6-class-2',
             'class',
-            'enum'
+            'enum',
+            'inference-compatibility'
           ]
         }
       ]
