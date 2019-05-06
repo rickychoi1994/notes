@@ -1,5 +1,7 @@
 # 泛型
 
+[官方文档](https://www.tslang.cn/docs/handbook/generics.html)
+
 泛型就是在编译期间不确定方法的类型(广泛之意思)，在方法调用时，由程序员指定泛型具体指向什么类型
 
 ## 简单使用

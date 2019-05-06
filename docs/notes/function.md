@@ -1,5 +1,7 @@
 # 函数
 
+[官方文档](https://www.tslang.cn/docs/handbook/functions.html)
+
 ## 函数类型
 
 ### 完成的函数类型

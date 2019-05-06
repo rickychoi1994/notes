@@ -1,5 +1,7 @@
 # Symbol
 
+[官方文档](https://www.tslang.cn/docs/handbook/symbols.html)
+
 ::: tip
 symbol表示一种独一无二的值
 :::

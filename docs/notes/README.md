@@ -1,5 +1,7 @@
 # 基础类型
 
+[官方文档](https://www.tslang.cn/docs/handbook/basic-types.html)
+
 ## 布尔类型
 ```typescript
 let bool: boolean = true

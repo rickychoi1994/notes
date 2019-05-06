@@ -1,5 +1,7 @@
 # ts中的类
 
+[官方文档](https://www.tslang.cn/docs/handbook/classes.html)
+
 ```typescript
 class Point {
   public x: number

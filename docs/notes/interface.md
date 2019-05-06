@@ -1,4 +1,6 @@
-# Interface
+# 接口
+
+[官方文档](https://www.tslang.cn/docs/handbook/interfaces.html)
 
 ## 基本用法
 

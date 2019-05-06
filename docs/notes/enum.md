@@ -1,5 +1,7 @@
 # 枚举
 
+[官方文档](https://www.tslang.cn/docs/handbook/classes.html)
+
 ## 数字枚举
 
 ```typescript
