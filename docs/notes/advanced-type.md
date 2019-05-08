@@ -736,7 +736,7 @@ type Type = InstanceType<never>    // any
 type Type = InstanceType<string>   // error
 ```
 ## 更新
-keyof 和 映射类型在2.9版本的升级，用number和symbol命名属性。
+keyof 和 映射类型在2.9版本的升级，支持用number和symbol命名属性。
 
 ```typescript
 const stringIndex = 'a'
