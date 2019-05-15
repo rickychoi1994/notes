@@ -24,7 +24,8 @@ module.exports = {
             'enum',
             'inference-compatibility',
             'advanced-type',
-            'es6-module'
+            'es6-module',
+            'ts-module'
           ]
         }
       ]
