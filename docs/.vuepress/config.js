@@ -23,7 +23,8 @@ module.exports = {
             'class',
             'enum',
             'inference-compatibility',
-            'advanced-type'
+            'advanced-type',
+            'es6-module'
           ]
         }
       ]
