@@ -25,7 +25,8 @@ module.exports = {
             'inference-compatibility',
             'advanced-type',
             'es6-module',
-            'ts-module'
+            'ts-module',
+            'merging'
           ]
         }
       ]
