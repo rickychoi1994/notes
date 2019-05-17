@@ -27,7 +27,8 @@ module.exports = {
             'es6-module',
             'ts-module',
             'merging',
-            'decorator'
+            'decorator',
+            'mixin'
           ]
         }
       ]
