@@ -26,7 +26,8 @@ module.exports = {
             'advanced-type',
             'es6-module',
             'ts-module',
-            'merging'
+            'merging',
+            'decortaor'
           ]
         }
       ]
